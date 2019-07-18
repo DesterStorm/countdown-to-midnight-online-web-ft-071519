@@ -7,7 +7,7 @@ def countdown
     countdown += 1 
   end
   
-  when countdown = 5
+  when countdown == 5
     puts "HAPPY NEWYEAR!"
   end
   
