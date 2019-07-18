@@ -6,8 +6,6 @@ def countdown
     do puts "#{countdown} SECOND(S)!"
     countdown += 1 
     end
-  else countdown == 5
-
   end
 puts "HAPPY NEWYEAR!"
 end
